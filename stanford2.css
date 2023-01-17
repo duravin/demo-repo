@@ -1,0 +1,65 @@
+<style>
+h1,
+h2,
+h3 {
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.important {
+    color: green;
+    background-color: aqua;
+    font-style: italic;
+    font-weight: bolder;
+
+}
+
+p.important {
+    text-decoration: underline;
+}
+
+#superior {
+    font-size: x-large;
+}
+
+.lorum {
+    color: red;
+}
+
+ol li {
+    color: green;
+}
+
+ul li {
+    color: rebeccapurple;
+}
+
+a:link {
+    color:red
+}
+a:visited {
+    color: green;
+}
+a:active {
+    color:blue;
+}
+
+#image1{
+    float: left;
+    border: 10px solid blue;
+    padding: 10px;
+    margin: 60px;
+    
+}
+
+#image2-div{
+    /* float: left; */
+    border: 10px solid red;
+    padding: 10px;
+    margin: 60px; 
+    text-align: center;
+    
+}
+
+</style>
